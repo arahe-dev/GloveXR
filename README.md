@@ -55,5 +55,3 @@ GloveXR is a motion-controlled VR input system using ESP32 microcontrollers with
 6. Use hall effect sensor for mouse clicks
 7. Use left hand tilting for WASD keyboard controls
 
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1741446673/user_uploads/qaoEPPLIYXkMmQA/image.jpg
